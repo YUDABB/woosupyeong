@@ -1,7 +1,7 @@
 ## 📖 상세 내용
 
 - **ERD 구조**
-- 
+  
    ![캡스톤1](https://github.com/YUDABB/woosupyeong/assets/114066269/5c6196b8-ff1b-44fb-bc4a-f5cfb4eb707a)
  
 
